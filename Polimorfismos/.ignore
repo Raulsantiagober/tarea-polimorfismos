@@ -1,0 +1,27 @@
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Configuración de IDE/editor
+.vscode/
+.idea/
+
+# Archivos de Firebase/credenciales
+serviceAccountKey.json
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
