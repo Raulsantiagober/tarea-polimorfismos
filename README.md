@@ -93,32 +93,14 @@ Cada acción dispara un evento que se envía a Firebase (o se simula) mediante p
 
 
 salida en consola
-<img width="1355" height="472" alt="image" src="https://github.com/user-attachments/assets/89900397-73d6-4d05-ad57-d2e8e11e2500" />
+
+<img width="1389" height="475" alt="image" src="https://github.com/user-attachments/assets/0f80b523-935d-4235-ac51-cda9fe743b44" />
 
 
+<img width="1303" height="288" alt="image" src="https://github.com/user-attachments/assets/52d29038-739f-43e2-96e2-1df49d693cb5" />
 
 
-<img width="1269" height="227" alt="image" src="https://github.com/user-attachments/assets/75d47d30-6c4e-4541-89f1-a06e7907c4af" />
-
-
-
-
-<img width="693" height="218" alt="image" src="https://github.com/user-attachments/assets/42e1414b-c65d-4cb7-bda5-ff91fe11454f" />
-
-
-
-
-
-
-<img width="1354" height="215" alt="image" src="https://github.com/user-attachments/assets/ea53f239-481c-4527-a208-ac99c2a3e0f7" />
-
-
-
-
-
-
-
-
+<img width="1220" height="316" alt="image" src="https://github.com/user-attachments/assets/ecf6f575-e26a-470a-9106-5cca1f33502e" />
 
 
 
